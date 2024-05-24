@@ -3,6 +3,12 @@ font-family:"Roboto", sans-serif;
 color: #434455;
 background-color: #ffffff;
 }
+header {
+    border-bottom: 1px solid #e7e9fc;
+}
+header div{
+    display: flex;
+}
 img {
     display: block
 }
