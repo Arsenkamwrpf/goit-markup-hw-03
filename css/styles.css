@@ -94,5 +94,14 @@ color: #434455;
 }
 .second-section{
     padding: 120px 0;
-
+}
+.list {
+    display: flex;
+    gap:24px;
+}
+.firts-list{
+    width: calc((100% -72px)/4);
+}
+.second-section-small-title{
+    margin-bottom: 8px;
 }
