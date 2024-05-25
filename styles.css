@@ -206,11 +206,11 @@ width: calc((100% - 72px) / 4);
 
 .footer-logo {
     display:inline-block;
-    margin-bottom: 16px;
+    margin-bottom:16px;
 }
 .second-footer-logo{
     display: inline-block;
-    margin-bottom: 16px;
+    margin-bottom:16px;
 }
 
 .footer-paragraf {
