@@ -1,0 +1,215 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+img {
+    display: block;
+}
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.container {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+}
+
+.header-navigation {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 76px;
+}
+
+.menu {
+
+    display: flex;
+    gap: 40px;
+}
+
+.menu-list {
+    padding: 24px 0;
+}
+
+.title {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.title2 {
+    color: #2e2f42;
+}
+
+.studio {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.studio:hover,
+.studio:active {
+    color: #404bbf;
+}
+
+.portfolio {
+    font-weight: 500
+}
+
+.contacts {
+    font-weight: 500
+}
+
+.address {
+
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-list {
+    display: flex;
+    gap: 40px;
+}
+
+.address:hover,
+.address:active {
+    color: #404bbf;
+}
+
+.section1 {
+    background-color: #2e2f42;
+}
+
+.section1-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+}
+
+.first-section {
+    padding: 188px 0;
+}
+
+.first-section-title {
+    max-width: 496px;
+}
+
+.button {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.second-section {
+    padding: 120px 0;
+}
+
+.features-list {
+    display: flex;
+    gap: 24px;
+}
+
+.features-item {
+    width: calc((100% -72px)/4);
+}
+
+.second-section-small-title {
+    margin-bottom: 8px;
+}
+
+.third-section {
+    padding: 120px;
+}
+
+.third-section-title {
+    margin-bottom: 71px;
+}
+
+.third-section-list {
+    display: flex;
+    gap: 24px;
+
+
+
+}
+
+.images {
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.team-info {
+    padding: 32px 0;
+}
+
+.third-section-small-title {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.third-section-paragraf {
+    text-align: center;
+}
+
+.fourth-section {
+    padding: 120px 0 120px 0;
+}
+
+.fourth-section-title {
+    margin-bottom: 72px;
+}
+
+.fourth-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.partfolio-images {
+    width: calc((100% - 48px) / 3);
+
+}
+
+.partfolio-info {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+
+}
+
+.fourth-section-small-title {
+    margin-bottom: 8px
+}
+
+.footer {
+    padding: 100px 0 100px;
+
+}
+
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.footer-paragraf {
+    max-width: 264px;
+}
