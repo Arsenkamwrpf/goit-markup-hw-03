@@ -220,11 +220,12 @@ padding: 24px 0;
 }
 
 .footer-logo {
-    
+    display: inline-block;
     margin-bottom: 16px;
 }
 
 
 .footer-paragraf {
+    display: inline-block;
     max-width: 264px;
 }
