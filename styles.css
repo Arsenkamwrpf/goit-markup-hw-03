@@ -214,12 +214,13 @@ padding: 24px 0;
 }
 
 .footer {
+    display: inline-block;
     padding: 100px 0 100px;
 
 }
 
 .footer-logo {
-    display: inline-block;
+    
     margin-bottom: 16px;
 }
 
