@@ -33,9 +33,10 @@ img {
     gap: 40px;
 }
 
-.menu-list {
+.menu-link {
     padding: 24px 0;
 }
+
 
 .title {
     font-family: "Raleway", sans-serif;
