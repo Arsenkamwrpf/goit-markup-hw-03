@@ -137,11 +137,9 @@ img {
 .features-list {
     display: flex;
     gap: 24px;
-    width: calc((100% -72px)/4);
-    
 }
 
-.features-item {
+.features-list .features-item {
 width: calc((100% - 72px) / 4);
 }
 
@@ -161,7 +159,7 @@ width: calc((100% - 72px) / 4);
     display: flex;
     gap: 24px;
 }
-.third-section-item {
+.third-section-list .third-section-item {
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
@@ -193,7 +191,7 @@ width: calc((100% - 72px) / 4);
     column-gap: 24px;
     row-gap: 48px;
 }
-.fourth-item {
+.fourth-list .fourth-item {
     width: calc((100% - 48px) / 3);
 
 }
