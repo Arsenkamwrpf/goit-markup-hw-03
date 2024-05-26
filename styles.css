@@ -10,7 +10,7 @@ img {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-
+    align-self: center;
 }
 .header-info{
     display: flex;
