@@ -97,10 +97,11 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    align-items: center;
 }
 .address-item {
     color: #404bbf;
-    align-items: center;
+    
 }
 .address-list {
     
