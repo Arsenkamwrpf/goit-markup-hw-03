@@ -310,7 +310,7 @@ ul {
 }
 
 .footer-logo {
-    display: inline-block;
+    
     margin-bottom: 16px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -325,7 +325,7 @@ ul {
 }
 
 .footer-paragraf {
-    display: inline-block;
+    
     max-width: 264px;
     line-height: 1.5;
     color: #F4F4FD;
