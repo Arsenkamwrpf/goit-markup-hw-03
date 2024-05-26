@@ -7,7 +7,14 @@ body {
 img {
     display: block;
 }
-
+h1,
+h2,
+h3,
+h4,
+p {
+    margin-top:0;
+    margin-bottom: 0;
+}
 .header {
     border-bottom: 1px solid #e7e9fc;
 }
@@ -29,6 +36,10 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
 }
 .header-navigation:hover,
 .header-navigation:active {
@@ -50,6 +61,9 @@ img {
 .menu {
     display: flex;
     gap: 40px;
+        padding-left: 0;
+            margin-top: 0;
+            margin-bottom: 0;
 }
 
 .menu-links {
@@ -80,7 +94,7 @@ padding: 24px 0;
 
 .studio:hover,
 .studio:active {
-    color: #404bbf;
+    color: #2e2f42;
 }
 
 .portfolio {
@@ -108,7 +122,7 @@ padding: 24px 0;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .address:hover,
@@ -137,7 +151,9 @@ padding: 24px 0;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #ffffff;
+    color: #ffffff; 
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .button {
@@ -152,7 +168,8 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    
+    margin-right: auto;
+    margin-left: auto;
 }
 .button:hover,
 .button:focus {
@@ -161,9 +178,16 @@ padding: 24px 0;
 a {
     text-decoration: none;
 }
-
+nav {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 ul {
     list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .visually-hidden {
     position: absolute;
