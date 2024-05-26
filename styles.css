@@ -129,7 +129,6 @@ padding: 24px 0;
 .first-section {
     padding: 188px 0;
     background-color: #2e2f42;
-    text-align: center;
 }
 
 .first-section-title {
@@ -139,9 +138,11 @@ padding: 24px 0;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    text-align: center;
 }
 
 .button {
+    text-align: center;
     display: block;
     min-width: 169px;
     height: 56px;
