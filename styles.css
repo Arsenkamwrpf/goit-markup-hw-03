@@ -13,6 +13,7 @@ img {
 }
 .header-info{
     display: flex;
+
 }
 .container {
     width: 1158px;
@@ -108,6 +109,7 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    align-items: center;
 }
 
 .address:hover,
