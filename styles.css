@@ -94,26 +94,28 @@ padding: 24px 0;
 
 .studio:hover,
 .studio:active {
-    color: #2e2f42;
+    color: #404bbf;
 }
 
 .portfolio {
-    font-weight: 500
+    font-weight: 500;
+    color: #2e2f42;
 }
 
 .contacts {
-    font-weight: 500
+    font-weight: 500;
+    color: #2e2f42;
 }
 
 .address {
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
     
 }
 .address-item {
-    color: #404bbf;
+    color: #2e2f42;
     
 }
 .address-list {
