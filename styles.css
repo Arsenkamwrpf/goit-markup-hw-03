@@ -129,7 +129,7 @@ color: #2e2f42;
     color: #2e2f42;
 }
 .links{
-    color: #2e2f42;
+    color: #2e2f42 !important;
 }
 .address:hover,
 .address:active {
@@ -182,6 +182,7 @@ color: #2e2f42;
     background-color: #404BBF;
 }
 a {
+    
     text-decoration: none;
 }
 
