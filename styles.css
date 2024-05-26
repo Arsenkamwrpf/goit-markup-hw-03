@@ -92,19 +92,18 @@ padding: 24px 0;
 }
 
 .address {
-    padding-left: 380px;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    align-items: center;
+    
 }
 .address-item {
     color: #404bbf;
     
 }
 .address-list {
-    
+    align-items: center;
     display: flex;
     gap: 40px;
     font-style: normal;
