@@ -173,6 +173,7 @@ p {
     color: #ffffff;
     margin-right: auto;
     margin-left: auto;
+    padding: 16px 32px 16px 32px;
 }
 .button:hover,
 .button:focus {
