@@ -67,12 +67,12 @@ p {
     margin-bottom: 0;
 }
 
-.menu-links {
+.menu-links .logo {
 padding: 24px 0 !important;
 }
 
 
-.logo {
+.first-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -82,7 +82,7 @@ padding: 24px 0 !important;
     color: #4d5ae5;
 }
 
-.logo-logo {
+.second-logo {
     color: #2e2f42;
 }
 
