@@ -148,7 +148,7 @@ p {
     gap: 10px;
 }
 .first-section-box {
-    padding: 16px 32px 16px 32px;
+    gap: 16px;
 }
 .first-section-title {
     max-width: 496px;
