@@ -30,6 +30,8 @@ p {
 }
 
 .header-navigation {
+    padding-top: 24px;
+    padding-bottom: 24px;
     display: flex;
     align-items: center;
     font-weight: 500;
