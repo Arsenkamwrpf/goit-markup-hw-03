@@ -17,6 +17,8 @@ p {
 }
 .header {
     border-bottom: 1px solid #e7e9fc;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .header-info{
     display: flex;
