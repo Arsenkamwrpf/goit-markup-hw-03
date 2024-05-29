@@ -17,8 +17,6 @@ p {
 }
 .header {
     border-bottom: 1px solid #e7e9fc;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 .header-info{
     display: flex;
@@ -42,6 +40,8 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     margin-right: auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .header-navigation:hover,
 .header-navigation:active {
@@ -68,12 +68,6 @@ p {
     margin-top: 0;
     margin-bottom: 0;
 }
-
-.menu-links .logo {
-padding-top: 24px;
-padding-bottom:  24px; 
-}
-
 
 .first-logo {
     font-family: "Raleway", sans-serif;
