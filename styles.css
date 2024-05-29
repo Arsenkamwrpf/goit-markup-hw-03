@@ -68,10 +68,6 @@ p {
     margin-top: 0;
     margin-bottom: 0;
 }
-.menu-links{
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
 .first-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -159,7 +155,7 @@ p {
     color: #ffffff; 
     margin-right: auto;
     margin-left: auto;
-    padding-bottom: 32px;
+    padding-bottom: 48px;
 }
 
 .button {
