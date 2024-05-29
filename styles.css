@@ -127,6 +127,8 @@ p {
 }
 .links{
     color: #2e2f42 !important;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .address:hover,
 .address:active {
