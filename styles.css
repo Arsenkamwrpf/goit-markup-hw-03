@@ -56,6 +56,8 @@ p {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .menu {
@@ -127,8 +129,6 @@ p {
 }
 .links{
     color: #2e2f42 !important;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 .address:hover,
 .address:active {
